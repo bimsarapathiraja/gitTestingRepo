@@ -1,2 +1,2 @@
-#Git-Tester
-This is my git tester
+#myApp
+This is my app
